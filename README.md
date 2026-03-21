@@ -1,6 +1,8 @@
 <!-- ======================= PREMIUM BANNER ======================= -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00c6ff&text=Ankush%20%7C%20AI%20%26%20ML%20Developer&fontSize=52&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&animation=fadeIn&fontColor=ffffff)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00c6ff&text=Ankush%20%7C%20AI%20%26%20ML%20Developer&fontSize=52&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Building+the+Future+with+AI;AI+%26+ML+Developer+in+Progress;DSA+%7C+Full+Stack+%7C+AI%2FML;Turning+Ideas+into+Impactful+Projects" />
 </p>
 
 <p align="center">
