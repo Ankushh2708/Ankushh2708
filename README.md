@@ -145,8 +145,6 @@
   <img src="https://raw.githubusercontent.com/Ankushh2708/Ankushh2708/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> Snake animation tab dikhega jab tu GitHub Action setup karega. Maine niche steps diye hain.
-
 ---
 
 ## 🧠 Current Focus
